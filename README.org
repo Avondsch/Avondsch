@@ -1,0 +1,10 @@
+#+TITLE: yo this is my profile readme.
+
+* Hi!
+** I am a middle school student and wannabe programmer.
+** I know C and Rust. And I am currently learning Rust, Typescript, elisp, and Java (courtesy of my school).
+** My main interest lies in tinkering with low level stuff like Operating systems, and i enjoy writing backends as well.
+** In the mean time i am procrastinating on doing these things, I like to work on my emacs configuration and configure my desktop.
+** speaking of emacs, I love emacs to an extent so far, i basically live inside of emacs at this point. Still need to practice my lisp-fu though
+** you can reach me via my email: muhil.sathish_kofee@yahoo.com
+** or my discord: kofee#5614
