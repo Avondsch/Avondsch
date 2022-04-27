@@ -1,6 +1,6 @@
 ## Hello!👋
 
-My name is Muhil, I am a junior high student studying in India. I love programming, especially low level experimentations, I mostly enjoy writing backend stuff. I am also a massive advocate of the cloud and I am learning about aws. Currently I am learning Java, clojure, and emacs.
+My name is Muhil, I am a junior high student living in India. I love programming and experimentation, especially tinkering with low level intricacies. My primary language of choice is rust, and i do know C/C++ and Typescript. I am an emacs enjoyer as well, and love emacs lisp and lisp in general. Currently i am learning Java, clojure, and emacs (you never stop learning emacs). I love linux (no i will not call it Gahnu/linux), so much so that i havent touched a windows computer in over 3 years now. I use NixOS as my distro of choice, sometimes i do end up in fedora or gentoo linux.
 
 Technologies i use:
  
