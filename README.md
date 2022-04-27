@@ -1,7 +1,6 @@
 ## Hello!👋
 
-My name is Muhil, I am a junior high student studying in India. I love programming, especially low level experimentations. I am also a massive advocate 
-of the cloud and I am learning about aws.
+My name is Muhil, I am a junior high student studying in India. I love programming, especially low level experimentations, I mostly enjoy writing backend stuff. I am also a massive advocate of the cloud and I am learning about aws. Currently I am learning Java, clojure, and emacs.
 
 Technologies i use:
  
