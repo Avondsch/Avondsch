@@ -1,11 +1,12 @@
 ## Hello!
 
-I am a 14 year old student who enjoys declarative and verbose programming. I use Rust and C as my primary languages, and i also use typescript along the way if needed. I am an emacs evangelist, I love the emacs ecosystem and its extensibility as a program. In that regard i also like emacs lisp and common lisp, scheme / guile are still in the works :). I am also experienced with GNU/Linux and use it on a daily basis both for my deployment servers and on my personal computer. I use NixOS as my distribution of linux (mostly because the neofetch logo looks cool), Please do not consider me a Nix master by any means, i am still getting a feel of it. I am currently learning C++, Rust and Nix.  As for my other interests i like math, 80s and 90s rap music, anime/manga, and staying in my room. 
+An ever so sarcastic lisp hacker and wannabe devops engineer. 
 
 Technologies i use:
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![emacslisp](https://img.shields.io/badge/emacslisp-5e5086?style=for-the-badge&logo=lisp&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -24,6 +25,6 @@ Technologies i use:
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
 ## To contact me :)
-Discord: Avondsch#5614
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge) : Avondsch#5614
 
-Email: Avondsch.muhilsk@hotmail.com
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge) : Avondsch.muhilsk@hotmail.com
