@@ -25,6 +25,6 @@ Technologies i use:
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
 ## To contact me :)
-![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge) : Avondsch#5614
+![Discord](https://img.shields.io/badge/%CAvondsch#5614%3E-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge) : Avondsch.muhilsk@hotmail.com
