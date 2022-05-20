@@ -26,4 +26,5 @@ Technologies i use:
 
 ## To contact me :)
 ![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) : Avondsch#5614
+
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge) : Avondsch.muhilsk@hotmail.com
