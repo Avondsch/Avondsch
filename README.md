@@ -5,7 +5,7 @@ I hail GNU emacs as my absolute tool for everything, and so far i havent regrett
 
 Anyways,
 
- these are the technologies i use:
+here are the tools i use:
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![emacslisp](https://img.shields.io/badge/emacslisp-5e5086?style=for-the-badge&logo=lisp&logoColor=white)
