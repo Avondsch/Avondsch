@@ -1,8 +1,11 @@
-## Hello!
+## Hi!
 
-An ever so sarcastic lisp hacker and wannabe devops engineer. 
+I am Muhil Sathish Kumar a school student from India, I do a lot of things ranging from contemporary mathematics, theoretical physics, and programming to political activism and writing.
+I hail GNU emacs as my go to for everything, and so far i havent regretted my desicion to delve into the emacs rabbit hole (I am totally saying this without a gun to my face). 
 
-Technologies i use:
+Anyways,
+
+ these are the technologies i use:
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![emacslisp](https://img.shields.io/badge/emacslisp-5e5086?style=for-the-badge&logo=lisp&logoColor=white)
@@ -24,7 +27,10 @@ Technologies i use:
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-## To contact me :)
+
+Keep in mind that programming is a hobby for me, and as such this github wont be extremely maintained as other githubs usually are. There will be one moment of epiphany every 3 or so months for me to come back to programming, and in that case you will see even more empty repos and unfinished projects :)
+
+## To contact me 
 ![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) : Avondsch#5614
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge) : Avondsch.muhilsk@hotmail.com
