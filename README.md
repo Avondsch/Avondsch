@@ -25,6 +25,6 @@ here are the tools i use, currently i am learning Python, Rust, and Haskell:
 Keep in mind that programming is a hobby for me, and as such this github wont be extremely maintained as other githubs usually are. There will be one moment of epiphany every 3 or so months for me to come back to programming, and in that case you will see even more empty repos and unfinished projects :)
 
 ## To contact me 
-![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) : Avondsch#5614
+![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) : @avondsch
 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge) : Avondsch.muhilsk@hotmail.com
