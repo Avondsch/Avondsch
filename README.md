@@ -1,6 +1,6 @@
 ## Hi!
 
-I am Muhil Sathish Kumar, a high-school student from India. I do a lot of things from programming, mathermatics, physics, and photography. 
+I am Muhil Sathish Kumar, a high-school student from India. I do a lot of things from programming, mathematics, physics, and photography. 
 I hail GNU emacs as my absolute tool for everything, and so far i havent regretted my desicion to delve into the emacs rabbit hole (I am totally saying this without a gun to my head). 
 
 Anyways,
