@@ -6,16 +6,16 @@ Here, you will find many of my unfinished projects, or sometimes even unstarted 
 (A boy can only dream in a world of JEE prep).
 
 ** Languages I use are (In their Decreasing order of familiarity):
- Rust
- Java
- C / C++
- Common Lisp
- Haskell
- Python
- Julia
+ Rust,
+ Java,
+ C / C++,
+ Common Lisp,
+ Haskell,
+ Python,
+ and Julia
 
 
 ** Tools I use:
-GNU Emacs (Vanilla)
-Nix / NixOS
+GNU Emacs (Vanilla),
+Nix / NixOS,
 Yeah that's pretty much it, once you have emacs, you dont need anything else.
