@@ -3,4 +3,19 @@
 I am Muhil, a high school student from India who is into Mathematics, Physics, and Computer Science.
 
 Here, you will find many of my unfinished projects, or sometimes even unstarted projects because I simply have no time to start working on them
-(A man can only dream).
+(A boy can only dream in a world of JEE prep).
+
+** Languages I use are (In their Decreasing order of familiarity):
+1. Rust
+   2. Java
+      3. C / C++
+	 4. Common Lisp
+	    5. Haskell
+	       6. Python
+		  7. Julia
+
+
+** Tools I use:
+1. GNU Emacs (Vanilla)
+   2. Nix / NixOS
+      3. Yeah that's pretty much it, once you have emacs, you dont need anything else.
